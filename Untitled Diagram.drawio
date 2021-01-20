@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2021-01-20T00:43:33.883Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" version="14.2.5" etag="_yxIyK4rKNYXHk5MN2pF" type="github"><diagram id="YpgM-K5-aEQj5g6qdxIj">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-20T00:50:17.622Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="1pELXdGR00_o_sRTb3l1" version="14.2.5" type="github">
+  <diagram id="YpgM-K5-aEQj5g6qdxIj" name="Page-1">
+    <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RYBTsP1wuA4cHaxfHTlG-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/google_chrome-128.png" vertex="1" parent="1">
+          <mxGeometry x="100" y="111" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="RYBTsP1wuA4cHaxfHTlG-3" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="115" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RYBTsP1wuA4cHaxfHTlG-6" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="700" y="115" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RYBTsP1wuA4cHaxfHTlG-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="285" y="109" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RYBTsP1wuA4cHaxfHTlG-11" value="HTML&lt;br&gt;&amp;lt;img...&lt;br&gt;&amp;lt;table...&lt;br&gt;&amp;lt;button ..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="145" width="90" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="RYBTsP1wuA4cHaxfHTlG-17" value="NAVE" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="285" y="109" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RYBTsP1wuA4cHaxfHTlG-18" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="490" y="80" width="98.4" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
